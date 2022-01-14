@@ -11,4 +11,5 @@ prune_system() {
     echo "cleaned containers, volumes, networks, and images."
 }
 
+kill_all
 prune_system
